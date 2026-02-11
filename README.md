@@ -6,8 +6,6 @@ A production-ready TeamSpeak 3 server deployed on GCP as part of my preparation 
 
 This project demonstrates the deployment and securing of a voice communication server on Google Cloud Platform, covering key ACE exam domains including Compute Engine, VPC networking, security, and Linux system administration.
 
-**Live Server:** `teamspeak.obsidiancloud.org`
-
 ## 🏗️ Architecture
 
 - **Compute Engine:** e2-micro instance (Always Free tier eligible)
@@ -79,7 +77,7 @@ This project demonstrates the deployment and securing of a voice communication s
 
 The e2-micro instance in us-west4 qualifies for GCP's Always Free tier, which includes:
 - 1 e2-micro instance per month
-- 30 GB standard persistent disk
+- 10 GB standard persistent disk
 - 1 GB network egress per month (US regions)
 
 Estimated usage for 15 users with moderate voice chat: Well within free tier limits.
