@@ -350,7 +350,7 @@ gcloud compute instances describe teamspeakvm \
 
 ## Troubleshooting
 
-See [troubleshooting.md](troubleshooting.md) for common issues and solutions.
+See [troubleshooting.md](Docs/Troubleshooting.md) for common issues and solutions.
 
 ---
 
