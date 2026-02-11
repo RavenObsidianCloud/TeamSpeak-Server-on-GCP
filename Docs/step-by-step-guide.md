@@ -350,7 +350,7 @@ gcloud compute instances describe teamspeakvm \
 
 ## Troubleshooting
 
-See [troubleshooting.md](Docs/Troubleshooting.md) for common issues and solutions.
+See [troubleshooting.md](https://github.com/RavenObsidianCloud/TeamSpeak-Server-on-GCP/blob/main/Docs/Troubleshooting.md) for common issues and solutions.
 
 ---
 
