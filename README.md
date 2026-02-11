@@ -69,9 +69,9 @@ This project demonstrates the deployment and securing of a voice communication s
 
 ## 📖 Documentation
 
-- **[Step-by-Step Setup Guide](docs/step-by-step-guide.md)** - Complete deployment instructions
-- **[Troubleshooting Guide](docs/troubleshooting.md)** - Common issues and solutions
-- **[Lessons Learned](docs/lessons-learned.md)** - Mistakes, insights, and improvements
+- **[Step-by-Step Setup Guide](https://github.com/RavenObsidianCloud/TeamSpeak-Server-on-GCP/blob/main/Docs/step-by-step-guide.md)** - Complete deployment instructions
+- **[Troubleshooting Guide](https://github.com/RavenObsidianCloud/TeamSpeak-Server-on-GCP/blob/main/Docs/Troubleshooting.md)** - Common issues and solutions
+- **[Lessons Learned](https://github.com/RavenObsidianCloud/TeamSpeak-Server-on-GCP/blob/main/Docs/lessons-learned.md)** - Mistakes, insights, and improvements
 
 ## 💰 Cost Analysis
 
