@@ -120,8 +120,8 @@ This project directly maps to the following ACE exam sections:
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn]
-- **Portfolio:** [Your Website]
+adjusting
+
 - **Certification Progress:** Targeting GCP ACE exam March 2026
 
 ## 📝 License
